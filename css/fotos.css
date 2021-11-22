@@ -1,0 +1,41 @@
+main{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+.titulofoto1, .titulofoto2{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 60px;
+    font-family: "rennie_mackintoshregular";
+    text-transform: uppercase;
+  }
+  
+  .titulofoto1{
+    margin-top:2%;
+    color: white;
+  }
+  
+  .titulofoto2{
+    color:#ca1926;
+  }
+
+div.gallery {
+    margin: 5% 2% 5% 2%;
+    width: 45%;
+    display: inline-block;
+
+}
+
+div.gallery img {
+width: 100%;
+height: auto;
+}
+
+  
+
+
+  

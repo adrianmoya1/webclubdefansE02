@@ -1,0 +1,121 @@
+body{
+    margin: 80px 0 0 0;
+    padding:0;
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+@font-face {
+    font-family: 'rennie_mackintoshregular';
+    src: url("../font/renniemackintosh-webfont.woff2") format("woff2"), url("../font/renniemackintosh-webfont.woff2") format("woff");
+    
+}
+
+nav{
+    font-family: "rennie_mackintoshregular";
+    text-transform: uppercase;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+    position: fixed;
+    left: 0;     
+    top: 0;       
+    width: 100%; 
+    background: black;
+}
+
+header{
+    text-align: center;
+    width: 80%; height: auto;
+    margin: 5% 10% 5% 10%;
+   
+}
+
+header img{
+    text-align: center;
+    width: 60%; height: 60%;  
+}
+
+
+
+
+a, a:visited, a:hover, a:active {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+.seccion{
+    display: table-cell;
+    vertical-align: middle;
+    width: 8%; 
+    height: 100%;
+}
+
+.seccion:hover{
+    background: #ca1926;
+}
+
+.barranav{
+    height:50px;
+    display: table;
+    margin-left: 26%;
+    margin-right: 26%;
+    
+}
+
+
+
+
+.piepagina{ 
+    margin-top: 5%;
+    background: #ca1926;    
+}
+
+.footertable{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;  
+}
+
+.centrar{
+    width: 15%;
+    padding-right:10%;
+}
+
+.derecha{
+    width: 20%;
+    text-align: left;
+    margin-top: -60px;   
+}
+
+.izquierda{
+    text-align: left;   
+}
+
+.logofooter{
+    margin-top: 2%;
+    width: 25%;
+    height: 25%;   
+}
+.social{
+    width: 35px;
+    height: 35px;
+    border-radius: 2px;
+}
+
+#instagram {  
+    background: url("../img/instagram.svg") no-repeat center;  
+}
+
+#facebook{
+    background: url("../img/facebook.svg") no-repeat center;
+}
+
+#twitter{
+    background: url("../img/twitter.svg") no-repeat center;
+}
+
+#twitter:hover, #facebook:hover, #instagram:hover{
+    background-color:#88131b;
+}
+

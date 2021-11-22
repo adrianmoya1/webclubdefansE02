@@ -1,0 +1,63 @@
+main{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+.map{
+    border:0; border-radius: 20px; 
+    width:100%; 
+    height: 40vh;
+}
+
+
+.imagencontacto{
+    width: 45%; 
+    padding-right: 6%;
+    
+}
+
+.imagencasa{
+    width: 100%; height: 100%;
+    padding: 1%;   
+}
+
+.titulo{
+    margin-top: 10%;
+    padding: 0;
+    text-align: center;
+    font-size: 60px;
+    font-family: "rennie_mackintoshregular";
+    text-transform: uppercase;
+    color: #ca1926;
+}
+
+.contacto{
+    width: 90%;
+    margin: 0 5% 0 5%;
+    text-align: left;
+}
+
+.formulario1 {
+    margin: 0 2% 0 2%;
+    width: 45%;
+    text-align: left;
+    display: inline-block;
+    
+
+}
+.formulario1 p{
+    color: white;
+    width: 100%;
+    height: auto;
+}
+.formulario2{
+    margin: 2% 2% 2% 2%;
+}
+
+.formulario2 p{
+    margin-top: 5%;
+    color: white;
+}
+

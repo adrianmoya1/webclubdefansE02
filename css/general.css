@@ -1,0 +1,20 @@
+main{
+    width: 60%;
+    margin: 0 20% 0 20%;
+}
+
+.titulogeneral{
+    padding-top: 2%;
+    text-align: center;
+    font-size: 60px;
+    font-family: "rennie_mackintoshregular";
+    text-transform: uppercase;
+    color:#ca1926;
+}
+
+
+.textogeneral{
+    color:white;
+    padding-bottom: 3%;
+    font-size: large;
+}
